@@ -1,4 +1,0 @@
-studentGradesPackage.studentGrades$1
-studentGradesPackage.studentGrades$2
-studentGradesPackage.studentGrades$3
-studentGradesPackage.studentGrades
